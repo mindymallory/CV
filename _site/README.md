@@ -1,6 +1,6 @@
 # Mindy's CV
 
-My CV design is based on the Ben Moore's [md-cv](https://github.com/blmoore/md-cv), which he customized from [the design](https://github.com/elipapa/markdown-cv) created by [Elipapa](https://github.com/elipapa) 
+My CV design is based on the [Ben Moore's](http://blm.io/) [md-cv](https://github.com/blmoore/md-cv), which he customized from [the design](https://github.com/elipapa/markdown-cv) created by [Elipapa](https://github.com/elipapa) 
 
 Below is the README file as appears on Moore's [md-cv](https://github.com/blmoore/md-cv) repository.
 
