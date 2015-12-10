@@ -328,7 +328,7 @@ Mallory, M. June 2010-December 2010. “A Comparison of the Economics of Some Al
 * <i class="fa fa-github"></i> <a href="http://github.com/mindymallory">mindymallory</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/ace_prof">ace_prof</a><br />
 * <i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=bp9U6boAAAAJ&hl=en">scholar</a>
-* <i class="fa fa-hand-o-right"></i> <a href="https://github.com/blmoore/md-cv">Style by md-cv</a>
+* <i class="fa fa-hand-o-right"></i> <a href="https://github.com/blmoore/md-cv">CV style by md-cv</a>
 
 
 
