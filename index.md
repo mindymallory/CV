@@ -31,13 +31,13 @@ __University of Illinois__ Assistant Professor, Agriculture and Consumer Economi
 ## Education
 
 `2005-2009`
-__Iowa State University__ Economics PhD
+__Iowa State University__, Economics PhD
 
 `2003-2005`
-__Emporia State University__ Mathematics M.S.
+__Emporia State University__, Mathematics M.S.
 
 `1999-2003`
-__Emporia State University__ Mathematics Education B.S.E
+__Emporia State University__, Mathematics Education B.S.E
 
 
 ## Publications
