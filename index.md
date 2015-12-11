@@ -2,7 +2,7 @@
 layout: cv
 title: Mindy Mallory's CV
 ---
-# Mindy L. Mallory hghg
+# Mindy L. Mallory 
 Economist
 
 <div id="webaddress">
