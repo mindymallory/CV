@@ -10,6 +10,8 @@ Economist
 |
 <i class="fa fa-hand-o-right"></i> <a href="http://ace.illinois.edu/directory/mallorym">ACE Webpage</a>
 |
+<i class="fa fa-info-circle"></i> <a href="http://mindymallory.github.io">Personal Webpage</a>
+|
 <i class="fa fa-github"></i> <a href="https://github.com/mindymallory">mindymallory</a>
 |
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/ace_prof">ace_prof</a>
