@@ -246,9 +246,6 @@ Commodity Futures and Options, <a href="https://courses.illinois.edu/schedule/20
 
 ### Doctoral Students Supervised
 
-`In Progress`
-Aditya Shrivinas
-
 `2015`
 Beth Miller (co-advisor), 2015. Placed at the Environmental Protection Agency
 
@@ -264,7 +261,34 @@ Tianwei Zhang, Ph.D. 2011. “Three Essays on Patronage Refunds and the Capital 
 
 ### Master’s Students Supervised
 `In Progress`
-Quanbiao Shang
+Quanbiao Shang  
+Menas Falakos 
+
+### Participation on Ph.D. Dissertation Committees
+`In Progress`
+Xin Li
+
+`2015`
+Kishore Joseph
+Tisorn Songsermsawas
+
+`2013`
+Xiaoyang Wang
+Xiaoli Liao
+Payal Shah
+Andres Trujillo
+
+### Participation on Master's Examining Committees
+
+`2015`
+Andres Baustista
+
+`2013`
+Anamaria Guadencio
+Hala Zahran
+
+`2011`
+Luis Figar
 
 
 ## Offices in Professional Scocieties 
