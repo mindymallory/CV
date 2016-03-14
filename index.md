@@ -67,7 +67,7 @@ price via energy markets.” *Journal of International Money and Finance*
 
 
 `2013`
-Paulson, N., T. Zhang, M. Mallory, and P. Barry. 2013. “Determinants of
+T. Zhang, M. Mallory, and P. Barry. 2013. “Determinants of
 the patronage refund decision of farm credit system associations.”
 *Agricultural Finance Review* 73(1):102–118. Available <a href="http://www.emeraldinsight.com/doi/abs/10.1108/00021461311321348">here</a>.
 
