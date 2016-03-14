@@ -315,6 +315,10 @@ Agricultural Finance and Management section of American Agricultural Economics A
 ## Grants Recieved
 
 `2015`
+Rausch, K., K. Baylis, M. Mallory, H. Michelson, M. Paulsen, J. Hart and G. Czapar. 2015-
+2018. “Reduction of Post-Harvest Loss in Bihar” ADM Institute for the Prevention of
+Post-Harvest Loss ($447,239).
+
 Mallory, M. 2015. “Food Price Forecasting Issues, Techniques and Opportunities Workshop.” Economic Research Service of the USDA. $35,000. 
 
 `2013`
