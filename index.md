@@ -46,6 +46,9 @@ __Emporia State University__, Mathematics Education B.S.E
 
 ### Peer Reveiwed Journal Articles 
 
+`2016` 
+Trujillo-Barrera, A., P. Garcia, M. Mallory. 2016. "Price Density Forecasts in the U.S. Hog Market: Composite Procedures." *American Journal of Agricultural Economics* forthcoming. 
+
 `2015`
 Mallory, M.L., W. Zhao, and S.H. Irwin. 2015. “The cost of post-harvest
 forward contracting in corn and soybeans.” *Agribusiness* 31(1):47–62.
@@ -98,7 +101,7 @@ Mallory, M., and S. Lence. 2012. “Testing for cointegration in the
 presence of moving average errors.” *Journal of Time Series
 Econometrics* 4(2). Available <a href="http://www.degruyter.com/view/j/jtse.2012.4.issue-2/1941-1928.1124/1941-1928.1124.xml">here</a>.
 
-Trujillo-Barrera, A., M. Mallory, P. Garcia, and others. 2012.
+Trujillo-Barrera, A., M. Mallory, P. Garcia. 2012.
 “Volatility spillovers in uS crude oil, ethanol, and corn futures
 markets.” *Journal of Agricultural and Resource Economics* 37(2):247.
 Available at:
