@@ -56,7 +56,7 @@ system in a multiple compliance period model.” *Resource and Energy
 Economics* 39:16–28. Available <a href="http://www.sciencedirect.com/science/article/pii/S0928765514000773">here</a>.
 
 
-`2014`
+`2014` 
 Mallory, M.L., and A.W. Ando. 2014. “The perils of shortcuts in
 efficient conservation portfolio design.” *Resource and Energy
 Economics*. Available <a href="http://www.sciencedirect.com/science/article/pii/S0928765514000402">here</a>.
