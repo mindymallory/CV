@@ -46,6 +46,9 @@ __Emporia State University__, Mathematics Education B.S.E
 
 ### Peer Reveiwed Journal Articles 
 
+`2016` 
+Trujillo-Barrera, A., P. Garcia, M. Mallory. 2016. "Price Density Forecasts in the U.S. Hog Market: Composite Procedures." *American Journal of Agricultural Economics* forthcoming. 
+
 `2015`
 Mallory, M.L., W. Zhao, and S.H. Irwin. 2015. “The cost of post-harvest
 forward contracting in corn and soybeans.” *Agribusiness* 31(1):47–62.
@@ -67,7 +70,7 @@ price via energy markets.” *Journal of International Money and Finance*
 
 
 `2013`
-Paulson, N., T. Zhang, M. Mallory, and P. Barry. 2013. “Determinants of
+T. Zhang, M. Mallory, and P. Barry. 2013. “Determinants of
 the patronage refund decision of farm credit system associations.”
 *Agricultural Finance Review* 73(1):102–118. Available <a href="http://www.emeraldinsight.com/doi/abs/10.1108/00021461311321348">here</a>.
 
@@ -98,7 +101,7 @@ Mallory, M., and S. Lence. 2012. “Testing for cointegration in the
 presence of moving average errors.” *Journal of Time Series
 Econometrics* 4(2). Available <a href="http://www.degruyter.com/view/j/jtse.2012.4.issue-2/1941-1928.1124/1941-1928.1124.xml">here</a>.
 
-Trujillo-Barrera, A., M. Mallory, P. Garcia, and others. 2012.
+Trujillo-Barrera, A., M. Mallory, P. Garcia. 2012.
 “Volatility spillovers in uS crude oil, ethanol, and corn futures
 markets.” *Journal of Agricultural and Resource Economics* 37(2):247.
 Available at:
@@ -314,7 +317,11 @@ Agricultural Finance and Management section of American Agricultural Economics A
 
 ## Grants Recieved
 
-`2015`
+`2015` 
+Rausch, K., K. Baylis, M. Mallory, H. Michelson, M. Paulsen, J. Hart and G. Czapar. 2015-
+2018. “Reduction of Post-Harvest Loss in Bihar” ADM Institute for the Prevention of
+Post-Harvest Loss ($447,239).
+
 Mallory, M. 2015. “Food Price Forecasting Issues, Techniques and Opportunities Workshop.” Economic Research Service of the USDA. $35,000. 
 
 `2013`
