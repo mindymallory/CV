@@ -27,8 +27,11 @@ My research focuses on agricultural marketing and policy. I analyze prices and r
 
 ## Appointments
 
-`2009-present`
+`2009-2015`
 __University of Illinois__ Assistant Professor, Agriculture and Consumer Economics
+
+`2016-present`
+__University of Illinois__ Associate Professor, Agriculture and Consumer Economics
 
 ## Education
 
