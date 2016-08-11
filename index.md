@@ -135,6 +135,10 @@ u.S. ethanol subsidy.” *Applied Economic Perspectives and Policy*
 
 ### Conference Proceedings
 
+`2016` Shang, Q., M. Mallory, and P. Garcia. 2016. “The Components of the Bid-Ask-Spread: Evidence from the Corn Futures Market.” NCCC-134 Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management. St. Louis, MO.
+
+Shang, Q., M. Mallory, and P. Garcia. 2016. "The Electronic Live Cattle Futures Market Bid Ask Spread Behaviors and Components" Agricultural and Applied Economics Association>2016 Annual Meeting, July 31-August 2, Boston, Massachusetts
+
 `2015`
 Mallory, M., P. Garcia, and T. Serra. 2015. “Nearby and Deferred Quotes: What They Tell Us about Linkages and Adjustments to Information.” NCCC-134 Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management. St. Louis, MO.
 
