@@ -36,7 +36,7 @@ __University of Illinois__ Associate Professor, Agriculture and Consumer Economi
 ## Education
 
 `2005-2009`
-__Iowa State University__, Economics PhD
+__Iowa State University__, Economics Ph.D.
 
 `2003-2005`
 __Emporia State University__, Mathematics M.S.
@@ -107,7 +107,7 @@ presence of moving average errors.” *Journal of Time Series
 Econometrics* 4(2). Available <a href="http://www.degruyter.com/view/j/jtse.2012.4.issue-2/1941-1928.1124/1941-1928.1124.xml">here</a>.
 
 Trujillo-Barrera, A., M. Mallory, P. Garcia. 2012.
-“Volatility spillovers in uS crude oil, ethanol, and corn futures
+“Volatility spillovers in US crude oil, ethanol, and corn futures
 markets.” *Journal of Agricultural and Resource Economics* 37(2):247.
 Available at:
 <a href="http://ageconsearch.umn.edu/bitstream/134275/2/pp247-262,Trujillo-Barrera.pdf">here</a>.
