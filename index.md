@@ -130,7 +130,7 @@ production with acreage competition and uncertainty.” *Land Economics*
 
 `2009`
 Du, X., D.J. Hayes, and M.L. Mallory. 2009. “A welfare analysis of the
-u.S. ethanol subsidy.” *Applied Economic Perspectives and Policy*
+U.S. ethanol subsidy.” *Applied Economic Perspectives and Policy*
 31(4):669–676. Available <a href="http://aepp.oxfordjournals.org/content/31/4/669.short">here</a>.
 
 ### Conference Proceedings
