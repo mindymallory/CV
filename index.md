@@ -109,7 +109,7 @@ Econometrics* 4(2). Available <a href="http://www.degruyter.com/view/j/jtse.2012
 Trujillo-Barrera, A., M. Mallory, P. Garcia. 2012.
 “Volatility spillovers in US crude oil, ethanol, and corn futures
 markets.” *Journal of Agricultural and Resource Economics* 37(2):247.
-Available at:
+Available 
 <a href="http://ageconsearch.umn.edu/bitstream/134275/2/pp247-262,Trujillo-Barrera.pdf">here</a>.
 
 `2011`
