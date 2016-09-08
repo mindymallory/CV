@@ -65,8 +65,7 @@ Economics* 39:16–28. Available <a href="http://www.sciencedirect.com/science/a
 
 
 `2014` 
-Mallory, M.L., and A.W. Ando. 2014. “The perils of shortcuts in
-efficient conservation portfolio design.” *Resource and Energy
+Mallory, M.L., and A.W. Ando. 2014. “Implementing efficient conservation portfolio design.” *Resource and Energy
 Economics*. Available <a href="http://www.sciencedirect.com/science/article/pii/S0928765514000402">here</a>.
 
 Yu, J., and M.L. Mallory. 2014. “Exchange rate effect on carbon credit
