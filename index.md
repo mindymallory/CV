@@ -170,6 +170,9 @@ Mallory, M. *Demonstrating Leverage in Option Markets.* Available <a href="https
 
 ### Invited Talks
 
+`2016`
+"The Components of the Bid-ask Spread: Evidence from the Corn Futures Market." Seminar, Department of Economics, Montana State University, September 23, 2016. 
+
 `2015`
 “Exchange Rate Effect on Carbon Credit Price via Energy Markets.” IPAM Workshop III: Commodity Markets and Their Financialization, University of California, Los Angeles, May 6, 2015.
 
