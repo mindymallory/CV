@@ -171,7 +171,7 @@ Mallory, M. *Demonstrating Leverage in Option Markets.* Available <a href="https
 ### Invited Talks
 
 `2016`
-"The Components of the Bid-ask Spread: Evidence from the Corn Futures Market." Seminar, Department of Economics, Montana State University, September 23, 2016. 
+"The Components of the Bid-ask Spread: Evidence from the Corn Futures Market." Seminar, Department of Agricultural Economics and Economics, Montana State University, September 23, 2016. 
 
 `2015`
 “Exchange Rate Effect on Carbon Credit Price via Energy Markets.” IPAM Workshop III: Commodity Markets and Their Financialization, University of California, Los Angeles, May 6, 2015.
@@ -262,6 +262,10 @@ Commodity Futures and Options, <a href="https://courses.illinois.edu/schedule/20
 
 ### Doctoral Students Supervised
 
+`In Progress`
+Quanbiao Shang
+Selina Han
+
 `2015`
 Beth Miller (co-advisor), 2015. Placed at the Environmental Protection Agency
 
@@ -276,12 +280,12 @@ Tianwei Zhang, Ph.D. 2011. “Three Essays on Patronage Refunds and the Capital 
 
 
 ### Master’s Students Supervised
-`In Progress`
+`2016`
 Quanbiao Shang  
 Menas Falakos 
 
 ### Participation on Ph.D. Dissertation Committees
-`In Progress`
+`2016`
 Xin Li
 
 `2015`
