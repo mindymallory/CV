@@ -263,7 +263,7 @@ Commodity Futures and Options, <a href="https://courses.illinois.edu/schedule/20
 ### Doctoral Students Supervised
 
 `In Progress`
-Quanbiao Shang
+Quanbiao Shang  
 Selina Han
 
 `2015`
