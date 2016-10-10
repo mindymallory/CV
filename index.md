@@ -289,14 +289,14 @@ Menas Falakos
 Xin Li
 
 `2015`
-Kishore Joseph
-Tisorn Songsermsawas
+Kishore Joseph  
+Tisorn Songsermsawas  
 
 `2013`
-Xiaoyang Wang
-Xiaoli Liao
-Payal Shah
-Andres Trujillo
+Xiaoyang Wang  
+Xiaoli Liao  
+Payal Shah  
+Andres Trujillo  
 
 ### Participation on Master's Examining Committees
 
@@ -304,7 +304,7 @@ Andres Trujillo
 Andres Baustista
 
 `2013`
-Anamaria Guadencio
+Anamaria Guadencio    
 Hala Zahran
 
 `2011`
