@@ -53,7 +53,7 @@ __Emporia State University__, Mathematics Education B.S.E
 Etienne, X.L., M.L. Mallory, and S.H. Irwin. 2017.  “Estimating the Cost of Pre-Harvest Forward Contracting Corn and Soybeans in Illinois Before and After 2007.” *Agribusiness: an International Journal* 00:1-21. Available <a href="http://onlinelibrary.wiley.com/doi/10.1002/agr.21500/full">here</a>.
 
 `2016` 
-Shah, P., M. Mallory, A. Ando, and G. Guntenspergen. 2016. "Fine-Resolution Conservation Planning with Limited Climate-Change Information." *Conservation Biology* forthcoming. Available <a href="http://onlinelibrary.wiley.com/doi/10.1111/cobi.12793/abstract">here</a>.
+Shah, P., M. Mallory, A. Ando, and G. Guntenspergen. 2016. "Fine-Resolution Conservation Planning with Limited Climate-Change Information." *Conservation Biology*, 31(2):278-289. Available <a href="http://onlinelibrary.wiley.com/doi/10.1111/cobi.12793/abstract">here</a>.
 
 Trujillo-Barrera, A., P. Garcia, M. Mallory. 2016. "Price Density Forecasts in the U.S. Hog Market: Composite Procedures." *American Journal of Agricultural Economics* Available <a href="http://ajae.oxfordjournals.org/content/early/2016/08/02/ajae.aaw050.full">here</a>.
 
